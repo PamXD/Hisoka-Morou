@@ -20,8 +20,8 @@ global.APIKeys = {
 // Other
 global.owner = ['6285792519213']
 global.premium = ['6285792519213']
-global.packname = 'XSpace - Botz '
-global.author = 'PamyyXx'
+global.packname = 'XSpace-MD'
+global.author = 'PamyyOfc'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
